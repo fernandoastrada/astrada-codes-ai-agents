@@ -1,0 +1,4 @@
+memory.json
+output.txt
+__pycache__/
+.env
